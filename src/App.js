@@ -76,7 +76,12 @@ function PackingList() {
   );
 }
 
-function Items() {}
+function Items() {
+  return (
+    <>
+    </>
+  )
+}
 function Stats() {
   return (
     <div className="stats">
